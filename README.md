@@ -1,9 +1,3 @@
-To create a README.md file for your GitHub repository on Hopfield Networks, I will first review the contents of the uploaded Jupyter notebooks to understand the scope and features of your project. This will help in drafting a comprehensive and informative README file. Let's begin by examining each of the notebooks.
-
-Based on the summaries of the three Jupyter notebooks in your repository, here's a draft for your README.md file:
-
----
-
 # Hopfield Networks Repository
 
 Welcome to the Hopfield Networks Repository! This collection of Jupyter notebooks provides a comprehensive guide and tutorial on Hopfield Networks, a type of recurrent artificial neural network that serves as a model for understanding human memory. The notebooks cover theoretical explanations, practical implementations, and visualizations to deepen your understanding of these networks.
@@ -52,8 +46,6 @@ Ensure you have the following prerequisites installed:
 ## Contributing
 
 Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
-
-## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
