@@ -47,7 +47,7 @@ Ensure you have the following prerequisites installed:
 
 Contributions to this project are welcome! Please feel free to fork the repository, make changes, and submit pull requests.
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ---
 
